@@ -1,8 +1,8 @@
 # My First Project
 
-Welcom to my first GitHub project!
+Welcome to my first GitHub project!
 
-This repositry is a place to learn and experiment with Git and GitHub.
+This repository is a place to learn and experiment with Git and GitHub.
 
 ## Goals
 
