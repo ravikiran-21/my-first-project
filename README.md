@@ -9,3 +9,4 @@ This repositry is a place to learn and experiment with Git and GitHub.
 - Learn how to use Git
 - Make my first pull request
 - Build cool things
+Practicing my first commit.
